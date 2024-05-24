@@ -8,7 +8,7 @@ This repository stores the code of an OOP exercise featured in my <a href="https
 <img src="https://github.com/MariyaSha/practiceOOP_Pygame/assets/32107652/97b839c0-c665-4164-8d58-5deb8a9bd229" width=600px>
 
 ## Requirements
-- pygame
+pygame: https://www.pygame.org/docs/
 
 ### Recommended Environment Setup
 ```
