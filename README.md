@@ -16,14 +16,24 @@ This repository stores the code of an OOP exercise featured in my <a href="https
 - pip install pygame
 
 ## Connect with me
-<b>YouTube</b> https://youtube.com/@pythonsimplified
+<b>YouTube</b>
 <br>
-<b>Discord</b>  https://discord.com/invite/wgTTmsWmXA
+https://youtube.com/@pythonsimplified
 <br>
-<b>LinkedIn</b>  https://ca.linkedin.com/in/mariyasha888
+<b>Discord</b>
 <br>
-<b>Twitter</b>  https://twitter.com/mariyasha888
+https://discord.com/invite/wgTTmsWmXA
 <br>
-<b>Blog</b>  https://www.pythonsimplified.org
+<b>LinkedIn</b>
+<br>
+https://ca.linkedin.com/in/mariyasha888
+<br>
+<b>Twitter</b>
+<br>
+https://twitter.com/mariyasha888
+<br>
+<b>Blog</b>
+<br>
+https://www.pythonsimplified.org
 
 
