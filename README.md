@@ -3,7 +3,7 @@ Practice Object Oriented Programming with Classes of Cars and Pygame
 
 ## Introduction
 
-This repository stores the code of an OOP practice featured in <a href="https://youtu.be/cgxTwQT1ahw" target="_blank">this video tutorial</a>.
+This repository stores the code of an OOP exercise featured in my <a href="https://youtu.be/cgxTwQT1ahw" target="_blank">Youtube video</a>.
 
 <img src="https://github.com/MariyaSha/practiceOOP_Pygame/assets/32107652/97b839c0-c665-4164-8d58-5deb8a9bd229" width=600px>
 
