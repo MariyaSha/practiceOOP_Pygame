@@ -18,23 +18,23 @@ pygame: https://www.pygame.org/docs/
 ```
 
 ## Connect with me
-<b>YouTube</b>
+<b>⭐ YouTube</b>
 <br>
      https://youtube.com/@pythonsimplified
 <br>
-<b>Discord</b>
+<b>⭐ Discord</b>
 <br>
      https://discord.com/invite/wgTTmsWmXA
 <br>
-<b>LinkedIn</b>
+<b>⭐ LinkedIn</b>
 <br>
      https://ca.linkedin.com/in/mariyasha888
 <br>
-<b>Twitter</b>
+<b>⭐ Twitter</b>
 <br>
      https://twitter.com/mariyasha888
 <br>
-<b>Blog</b>
+<b>⭐ Blog</b>
 <br>
      https://www.pythonsimplified.org
 
