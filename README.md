@@ -17,9 +17,13 @@ This repository stores the code of an OOP exercise featured in my <a href="https
 
 ## Connect with me
 <b>YouTube</b> https://youtube.com/@pythonsimplified
-<b>Discord</b> https://discord.com/invite/wgTTmsWmXA
-<b>LinkedIn</b> https://ca.linkedin.com/in/mariyasha888
-<b>Twitter</b> https://twitter.com/mariyasha888
-<b>Blog</b> https://www.pythonsimplified.org
+<br>
+<b>Discord</b>  https://discord.com/invite/wgTTmsWmXA
+<br>
+<b>LinkedIn</b>  https://ca.linkedin.com/in/mariyasha888
+<br>
+<b>Twitter</b>  https://twitter.com/mariyasha888
+<br>
+<b>Blog</b>  https://www.pythonsimplified.org
 
 
