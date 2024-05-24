@@ -11,9 +11,11 @@ This repository stores the code of an OOP exercise featured in my <a href="https
 - pygame
 
 ### Recommended Environment Setup
-- conda create env -n your_name python=3.11
-- conda activate your_name
-- pip install pygame
+```
+>> conda create env -n your_name python=3.11
+>> conda activate your_name
+>> pip install pygame
+```
 
 ## Connect with me
 <b>YouTube</b>
