@@ -16,10 +16,15 @@ This repository stores the code of an OOP exercise featured in my <a href="https
 - pip install pygame
 
 ## Connect with me
-- YouTube: https://youtube.com/@pythonsimplified
-- Discord: https://discord.com/invite/wgTTmsWmXA
-- LinkedIn: https://ca.linkedin.com/in/mariyasha888
-- Twitter: https://twitter.com/mariyasha888
-- Blog: https://www.pythonsimplified.org
+#### YouTube
+https://youtube.com/@pythonsimplified
+#### Discord
+https://discord.com/invite/wgTTmsWmXA
+#### LinkedIn
+https://ca.linkedin.com/in/mariyasha888
+#### Twitter
+https://twitter.com/mariyasha888
+#### Blog
+https://www.pythonsimplified.org
 
 
